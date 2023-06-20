@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/GIMI-CharacterLimiter.iml" filepath="$PROJECT_DIR$/.idea/GIMI-CharacterLimiter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GIMI-WeaponBinder.iml" filepath="$PROJECT_DIR$/.idea/GIMI-WeaponBinder.iml" />
     </modules>
   </component>
 </project>
